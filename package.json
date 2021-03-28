@@ -1,0 +1,14 @@
+{
+  "name": "test-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "infernal-engine": "^1.1.1"
+  }
+}
